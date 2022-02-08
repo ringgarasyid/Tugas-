@@ -1,0 +1,53 @@
+<style>
+    body {
+        /*background-color: rgb(15, 15, 15);*/
+        background-image: url("story3.PNG");
+    }
+
+    .title-1 {
+        color: rgb(48, 6, 71);
+        text-align: center;
+        font-size: 40px;
+
+    }
+
+    .title-2 {}
+
+    h2 {
+        color: rgb(11, 73, 11);
+        text-align: center;
+        font-size: 20 px;
+        font-variant: small-caps;
+    }
+
+    table,
+    tr,
+    th,
+    td {
+        border-color: rgb(224, 127, 16);
+        border-style: dashed;
+        background-color: rgb(32, 109, 139);
+        font-size: 16px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    }
+
+    ul,
+    li {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20 px;
+        font-style: normal;
+        font-variant: inherit;
+        color: rgb(60, 12, 92);
+    }
+
+    #idcontent1 {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 15 px;
+        font-style: italic;
+        font-variant: inherit;
+        color: rgb(91, 139, 12);
+    }
+
+    /* #idcontent2 {}*/
+</style>
